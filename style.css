@@ -1,0 +1,36 @@
+#book{
+    width: 50px;
+}
+h3{
+    color: deepskyblue;
+    text-align: center;
+}
+.image{
+    box-shadow: 5px 5px 5px fuchsia;
+    border: 2px solid black;
+}
+#div_header{
+    box-shadow: 5px 5px 5px darkmagenta;
+    background-color: lightcoral;
+}
+#bottle{
+    width: 50px;
+}
+#compass{
+    width: 50px;
+}
+#Pouch{
+    width: 50px;
+}
+#doll{
+    width: 50px;
+}
+ .footer_div{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
